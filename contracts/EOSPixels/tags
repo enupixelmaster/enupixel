@@ -1,0 +1,453 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Arg	catch.hpp	/^    class Arg : public ParserRefImpl<Arg> {$/;"	c	namespace:Catch
+AssertionInfo	catch.hpp	/^    struct AssertionInfo$/;"	s	namespace:Catch
+AutoReg	catch.hpp	/^struct AutoReg : NonCopyable {$/;"	s	namespace:Catch
+BENCHMARK	catch.hpp	2055;"	d
+CANVAS_DURATION	config.hpp	7;"	d
+CATCH_ARC_ENABLED	catch.hpp	763;"	d
+CATCH_ARC_STRONG	catch.hpp	781;"	d
+CATCH_ARC_STRONG	catch.hpp	797;"	d
+CATCH_BREAK_INTO_DEBUGGER	catch.hpp	5203;"	d
+CATCH_CATCH_ALL	catch.hpp	297;"	d
+CATCH_CATCH_ANON	catch.hpp	298;"	d
+CATCH_CLARA_CONFIG_CONSOLE_WIDTH	catch.hpp	5692;"	d
+CATCH_CLARA_TEXTFLOW_CONFIG_CONSOLE_WIDTH	catch.hpp	5669;"	d
+CATCH_CLARA_TEXTFLOW_CONFIG_CONSOLE_WIDTH	catch.hpp	5671;"	d
+CATCH_CLARA_TEXTFLOW_CONFIG_CONSOLE_WIDTH	catch.hpp	5696;"	d
+CATCH_CLARA_TEXTFLOW_CONFIG_CONSOLE_WIDTH	catch.hpp	5726;"	d
+CATCH_CONFIG_ALL_PARTS	catch.hpp	50;"	d
+CATCH_CONFIG_COLOUR_NONE	catch.hpp	175;"	d
+CATCH_CONFIG_COLOUR_NONE	catch.hpp	217;"	d
+CATCH_CONFIG_CONSOLE_WIDTH	catch.hpp	3753;"	d
+CATCH_CONFIG_COUNTER	catch.hpp	248;"	d
+CATCH_CONFIG_CPP11_TO_STRING	catch.hpp	263;"	d
+CATCH_CONFIG_CPP17_UNCAUGHT_EXCEPTIONS	catch.hpp	267;"	d
+CATCH_CONFIG_DEFAULT_REPORTER	catch.hpp	3789;"	d
+CATCH_CONFIG_DEFAULT_REPORTER	catch.hpp	3792;"	d
+CATCH_CONFIG_DISABLE_EXCEPTIONS	catch.hpp	279;"	d
+CATCH_CONFIG_DISABLE_MATCHERS	catch.hpp	58;"	d
+CATCH_CONFIG_ENABLE_CHRONO_STRINGMAKER	catch.hpp	1117;"	d
+CATCH_CONFIG_ENABLE_CHRONO_STRINGMAKER	catch.hpp	61;"	d
+CATCH_CONFIG_ENABLE_PAIR_STRINGMAKER	catch.hpp	1115;"	d
+CATCH_CONFIG_ENABLE_TUPLE_STRINGMAKER	catch.hpp	1116;"	d
+CATCH_CONFIG_EXTERNAL_INTERFACES	catch.hpp	56;"	d
+CATCH_CONFIG_MAIN	test.cpp	1;"	d	file:
+CATCH_CONFIG_NEW_CAPTURE	catch.hpp	275;"	d
+CATCH_CONFIG_POSIX_SIGNALS	catch.hpp	255;"	d
+CATCH_CONFIG_WCHAR	catch.hpp	259;"	d
+CATCH_CONFIG_WINDOWS_SEH	catch.hpp	251;"	d
+CATCH_CPP14_OR_GREATER	catch.hpp	125;"	d
+CATCH_CPP17_OR_GREATER	catch.hpp	129;"	d
+CATCH_DEFINED_NOMINMAX	catch.hpp	5222;"	d
+CATCH_DEFINED_WIN32_LEAN_AND_MEAN	catch.hpp	5226;"	d
+CATCH_ENFORCE	catch.hpp	2948;"	d
+CATCH_ERROR	catch.hpp	2944;"	d
+CATCH_IMPL	catch.hpp	49;"	d
+CATCH_INTERNAL_CONFIG_COUNTER	catch.hpp	244;"	d
+CATCH_INTERNAL_CONFIG_CPP17_UNCAUGHT_EXCEPTIONS	catch.hpp	135;"	d
+CATCH_INTERNAL_CONFIG_CPP17_UNCAUGHT_EXCEPTIONS	catch.hpp	211;"	d
+CATCH_INTERNAL_CONFIG_EXCEPTIONS_ENABLED	catch.hpp	227;"	d
+CATCH_INTERNAL_CONFIG_NEW_CAPTURE	catch.hpp	271;"	d
+CATCH_INTERNAL_CONFIG_NO_CPP11_TO_STRING	catch.hpp	181;"	d
+CATCH_INTERNAL_CONFIG_NO_NEW_CAPTURE	catch.hpp	193;"	d
+CATCH_INTERNAL_CONFIG_NO_POSIX_SIGNALS	catch.hpp	170;"	d
+CATCH_INTERNAL_CONFIG_NO_POSIX_SIGNALS	catch.hpp	174;"	d
+CATCH_INTERNAL_CONFIG_NO_WCHAR	catch.hpp	233;"	d
+CATCH_INTERNAL_CONFIG_NO_WINDOWS_SEH	catch.hpp	187;"	d
+CATCH_INTERNAL_CONFIG_POSIX_SIGNALS	catch.hpp	164;"	d
+CATCH_INTERNAL_ERROR	catch.hpp	2942;"	d
+CATCH_INTERNAL_LINEINFO	catch.hpp	372;"	d
+CATCH_INTERNAL_STRINGIFY	catch.hpp	1757;"	d
+CATCH_INTERNAL_SUPPRESS_GLOBALS_WARNINGS	catch.hpp	140;"	d
+CATCH_INTERNAL_SUPPRESS_GLOBALS_WARNINGS	catch.hpp	287;"	d
+CATCH_INTERNAL_SUPPRESS_PARENTHESES_WARNINGS	catch.hpp	147;"	d
+CATCH_INTERNAL_SUPPRESS_PARENTHESES_WARNINGS	catch.hpp	283;"	d
+CATCH_INTERNAL_SUPPRESS_UNUSED_WARNINGS	catch.hpp	153;"	d
+CATCH_INTERNAL_SUPPRESS_UNUSED_WARNINGS	catch.hpp	291;"	d
+CATCH_INTERNAL_UNSUPPRESS_GLOBALS_WARNINGS	catch.hpp	144;"	d
+CATCH_INTERNAL_UNSUPPRESS_GLOBALS_WARNINGS	catch.hpp	288;"	d
+CATCH_INTERNAL_UNSUPPRESS_PARENTHESES_WARNINGS	catch.hpp	150;"	d
+CATCH_INTERNAL_UNSUPPRESS_PARENTHESES_WARNINGS	catch.hpp	284;"	d
+CATCH_INTERNAL_UNSUPPRESS_UNUSED_WARNINGS	catch.hpp	156;"	d
+CATCH_INTERNAL_UNSUPPRESS_UNUSED_WARNINGS	catch.hpp	292;"	d
+CATCH_PLATFORM_IPHONE	catch.hpp	73;"	d
+CATCH_PLATFORM_LINUX	catch.hpp	77;"	d
+CATCH_PLATFORM_MAC	catch.hpp	71;"	d
+CATCH_PLATFORM_WINDOWS	catch.hpp	6042;"	d
+CATCH_PLATFORM_WINDOWS	catch.hpp	80;"	d
+CATCH_PREPARE_EXCEPTION	catch.hpp	2940;"	d
+CATCH_REGISTER_LISTENER	catch.hpp	4548;"	d
+CATCH_REGISTER_REPORTER	catch.hpp	4543;"	d
+CATCH_REGISTER_TAG_ALIAS	catch.hpp	384;"	d
+CATCH_RUNTIME_ERROR	catch.hpp	2946;"	d
+CATCH_TEMP_CLARA_CONFIG_CONSOLE_WIDTH	catch.hpp	5668;"	d
+CATCH_TRAP	catch.hpp	5182;"	d
+CATCH_TRY	catch.hpp	296;"	d
+CATCH_UNSAFE_UNRETAINED	catch.hpp	780;"	d
+CATCH_UNSAFE_UNRETAINED	catch.hpp	796;"	d
+CATCH_VERSION_MAJOR	catch.hpp	16;"	d
+CATCH_VERSION_MINOR	catch.hpp	17;"	d
+CATCH_VERSION_PATCH	catch.hpp	18;"	d
+CLARA_CONFIG_MAIN	catch.hpp	88;"	d
+CLARA_CONFIG_MAIN_NOT_DEFINED	catch.hpp	87;"	d
+CLARA_CONFIG_OPTIONAL_TYPE	catch.hpp	5703;"	d
+CaseSensitive	catch.hpp	/^    struct CaseSensitive { enum Choice {$/;"	s	namespace:Catch
+Catch	catch.hpp	/^namespace Catch {$/;"	n
+Catch_global_namespace_dummy	catch.hpp	/^struct Catch_global_namespace_dummy {};$/;"	s
+Choice	catch.hpp	/^    struct CaseSensitive { enum Choice {$/;"	g	struct:Catch::CaseSensitive
+ComposableParserImpl	catch.hpp	/^    class ComposableParserImpl : public ParserBase {$/;"	c	namespace:Catch
+ContinueOnFailure	catch.hpp	/^        ContinueOnFailure = 0x02,   \/\/ Failures fail test, but execution continues$/;"	e	enum:Catch::ResultDisposition::Flags
+DEFAULT_PRICE	config.hpp	3;"	d
+Detail	catch.hpp	/^    namespace Detail {$/;"	n	namespace:Catch
+DidntThrowException	catch.hpp	/^        DidntThrowException = Exception | 2,$/;"	e	enum:Catch::ResultWas::OfType
+E10_UINT64	printu128.hpp	5;"	d
+ENULIB_SERIALIZE	eosio.hpp	71;"	d
+EOS_SYMBOL	EOSPixels.hpp	8;"	d
+Exception	catch.hpp	/^        Exception = 0x100 | FailureBit,$/;"	e	enum:Catch::ResultWas::OfType
+ExeName	catch.hpp	/^        ExeName() : m_name( std::make_shared<std::string>( "<executable>" ) ) {}$/;"	f	class:Catch::ExeName
+ExeName	catch.hpp	/^        explicit ExeName( LambdaT const& lambda ) : ExeName() {$/;"	f	class:Catch::ExeName
+ExeName	catch.hpp	/^        explicit ExeName( std::string &ref ) : ExeName() {$/;"	f	class:Catch::ExeName
+ExeName	catch.hpp	/^    class ExeName : public ComposableParserImpl<ExeName> {$/;"	c	namespace:Catch
+ExplicitFailure	catch.hpp	/^        ExplicitFailure = FailureBit | 2,$/;"	e	enum:Catch::ResultWas::OfType
+ExpressionFailed	catch.hpp	/^        ExpressionFailed = FailureBit | 1,$/;"	e	enum:Catch::ResultWas::OfType
+FEE_PERCENTAGE	config.hpp	4;"	d
+Factorial	memo.test.cpp	/^unsigned int Factorial(unsigned int number) {$/;"	f
+FailureBit	catch.hpp	/^        FailureBit = 0x10,$/;"	e	enum:Catch::ResultWas::OfType
+FalseTest	catch.hpp	/^        FalseTest = 0x04,           \/\/ Prefix expression with !$/;"	e	enum:Catch::ResultDisposition::Flags
+FatalErrorCondition	catch.hpp	/^        FatalErrorCondition = 0x200 | FailureBit$/;"	e	enum:Catch::ResultWas::OfType
+Flags	catch.hpp	/^    struct ResultDisposition { enum Flags {$/;"	g	struct:Catch::ResultDisposition
+GENERATE	catch.hpp	3183;"	d
+Help	catch.hpp	/^        Help( bool &showHelpFlag )$/;"	f	struct:Catch::Help
+Help	catch.hpp	/^    struct Help : Opt {$/;"	s	namespace:Catch
+INTERNAL_CATCH_CAPTURE	catch.hpp	1862;"	d
+INTERNAL_CATCH_CATCH	catch.hpp	1768;"	d
+INTERNAL_CATCH_DEF	catch.hpp	586;"	d
+INTERNAL_CATCH_DYNAMIC_SECTION	catch.hpp	2007;"	d
+INTERNAL_CATCH_ELSE	catch.hpp	1798;"	d
+INTERNAL_CATCH_EXPAND1	catch.hpp	584;"	d
+INTERNAL_CATCH_EXPAND2	catch.hpp	585;"	d
+INTERNAL_CATCH_IF	catch.hpp	1793;"	d
+INTERNAL_CATCH_INFO	catch.hpp	1867;"	d
+INTERNAL_CATCH_METHOD_AS_TEST_CASE	catch.hpp	613;"	d
+INTERNAL_CATCH_MSG	catch.hpp	1854;"	d
+INTERNAL_CATCH_NOINTERNAL_CATCH_DEF	catch.hpp	587;"	d
+INTERNAL_CATCH_NO_THROW	catch.hpp	1803;"	d
+INTERNAL_CATCH_REACT	catch.hpp	1777;"	d
+INTERNAL_CATCH_REGISTER_TESTCASE	catch.hpp	633;"	d
+INTERNAL_CATCH_SECTION	catch.hpp	2002;"	d
+INTERNAL_CATCH_TEST	catch.hpp	1780;"	d
+INTERNAL_CATCH_TESTCASE	catch.hpp	609;"	d
+INTERNAL_CATCH_TESTCASE2	catch.hpp	603;"	d
+INTERNAL_CATCH_TESTCASE_METHOD_NO_REGISTRATION	catch.hpp	592;"	d
+INTERNAL_CATCH_TESTCASE_NO_REGISTRATION	catch.hpp	590;"	d
+INTERNAL_CATCH_TEST_CASE_METHOD	catch.hpp	629;"	d
+INTERNAL_CATCH_TEST_CASE_METHOD2	catch.hpp	619;"	d
+INTERNAL_CATCH_THROWS	catch.hpp	1817;"	d
+INTERNAL_CATCH_THROWS_AS	catch.hpp	1834;"	d
+INTERNAL_CATCH_THROWS_MATCHES	catch.hpp	2868;"	d
+INTERNAL_CATCH_THROWS_STR_MATCHES	catch.hpp	1872;"	d
+INTERNAL_CATCH_TRANSLATE_EXCEPTION	catch.hpp	2177;"	d
+INTERNAL_CATCH_TRANSLATE_EXCEPTION2	catch.hpp	2170;"	d
+INTERNAL_CATCH_TRANSLATE_EXCEPTION_NO_REG	catch.hpp	2110;"	d
+INTERNAL_CATCH_TRY	catch.hpp	1767;"	d
+INTERNAL_CATCH_UNIQUE_NAME	catch.hpp	309;"	d
+INTERNAL_CATCH_UNIQUE_NAME_LINE	catch.hpp	307;"	d
+INTERNAL_CATCH_UNIQUE_NAME_LINE2	catch.hpp	306;"	d
+INTERNAL_CHECK_THAT	catch.hpp	2858;"	d
+IStream	catch.hpp	/^    struct IStream {$/;"	s	namespace:Catch
+ITestCaseRegistry	catch.hpp	/^    struct ITestCaseRegistry {$/;"	s	namespace:Catch
+ITestInvoker	catch.hpp	/^    struct ITestInvoker {$/;"	s	namespace:Catch
+Info	catch.hpp	/^        Info = 1,$/;"	e	enum:Catch::ResultWas::OfType
+InternalParseResult	catch.hpp	/^        virtual auto parse( std::string const& exeName, TokenStream const &tokens) const -> InternalParseResult  = 0;$/;"	m	namespace:Catch::Detail
+IsStreamInsertable	catch.hpp	/^        class IsStreamInsertable {$/;"	c	namespace:Catch::Detail
+MAX_COORDINATE_X_PLUS_ONE	config.hpp	8;"	d
+MAX_COORDINATE_Y_PLUS_ONE	config.hpp	9;"	d
+N	eosio.hpp	70;"	d
+NOMINMAX	catch.hpp	5223;"	d
+NOMINMAX	catch.hpp	5237;"	d
+NameAndTags	catch.hpp	/^struct NameAndTags {$/;"	s	namespace:Catch
+No	catch.hpp	/^        No$/;"	e	enum:Catch::CaseSensitive::Choice
+NonCopyable	catch.hpp	/^    class NonCopyable {$/;"	c	namespace:Catch
+Normal	catch.hpp	/^        Normal = 0x01,$/;"	e	enum:Catch::ResultDisposition::Flags
+OC_MAKE_UNIQUE_NAME	catch.hpp	3468;"	d
+OC_TEST_CASE	catch.hpp	3480;"	d
+OC_TEST_CASE2	catch.hpp	3469;"	d
+OfType	catch.hpp	/^    struct ResultWas { enum OfType {$/;"	g	struct:Catch::ResultWas
+Ok	catch.hpp	/^        Ok = 0,$/;"	e	enum:Catch::ResultWas::OfType
+Opt	catch.hpp	/^        Opt( LambdaT const &ref, std::string const &hint ) : ParserRefImpl( ref, hint ) {}$/;"	f	class:Catch::Opt
+Opt	catch.hpp	/^        Opt( T &ref, std::string const &hint ) : ParserRefImpl( ref, hint ) {}$/;"	f	class:Catch::Opt
+Opt	catch.hpp	/^        explicit Opt( LambdaT const &ref ) : ParserRefImpl( std::make_shared<BoundFlagLambda<LambdaT>>( ref ) ) {}$/;"	f	class:Catch::Opt
+Opt	catch.hpp	/^        explicit Opt( bool &ref ) : ParserRefImpl( std::make_shared<BoundFlagRef>( ref ) ) {}$/;"	f	class:Catch::Opt
+Opt	catch.hpp	/^    class Opt : public ParserRefImpl<Opt> {$/;"	c	namespace:Catch
+P10_UINT64	printu128.hpp	4;"	d
+PATRON_BONUS_PERCENTAGE_POINTS	config.hpp	12;"	d
+PIXELS_PER_ROW	config.hpp	10;"	d
+POT_PERCENTAGE_POINTS	config.hpp	13;"	d
+PRECISION_BASE	config.hpp	20;"	d
+PRICE_MULTIPLIER	config.hpp	6;"	d
+Parser	catch.hpp	/^        auto operator+( T const &other ) const -> Parser;$/;"	m	class:Catch::ComposableParserImpl
+Parser	catch.hpp	/^        auto operator|( T const &other ) const -> Parser;$/;"	m	class:Catch::ComposableParserImpl
+Parser	catch.hpp	/^    struct Parser : ParserBase {$/;"	s	namespace:Catch
+ParserRefImpl	catch.hpp	/^        ParserRefImpl( LambdaT const &ref, std::string const &hint )$/;"	f	class:Catch::ParserRefImpl
+ParserRefImpl	catch.hpp	/^        ParserRefImpl( T &ref, std::string const &hint )$/;"	f	class:Catch::ParserRefImpl
+ParserRefImpl	catch.hpp	/^        explicit ParserRefImpl( std::shared_ptr<BoundRef> const &ref ) : m_ref( ref ) {}$/;"	f	class:Catch::ParserRefImpl
+ParserRefImpl	catch.hpp	/^    class ParserRefImpl : public ComposableParserImpl<DerivedT> {$/;"	c	namespace:Catch
+REFERRER_PERCENTAGE_POINTS	config.hpp	18;"	d
+RegistrarForTagAliases	catch.hpp	/^    struct RegistrarForTagAliases {$/;"	s	namespace:Catch
+ResultDisposition	catch.hpp	/^    struct ResultDisposition { enum Flags {$/;"	s	namespace:Catch
+ResultWas	catch.hpp	/^    struct ResultWas { enum OfType {$/;"	s	namespace:Catch
+ReusableStringStream	catch.hpp	/^    class ReusableStringStream {$/;"	c	namespace:Catch
+STRINGIZER	printu128.hpp	7;"	d
+SourceLineInfo	catch.hpp	/^    struct SourceLineInfo {$/;"	s	namespace:Catch
+StreamEndStop	catch.hpp	/^    struct StreamEndStop {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<NSObject*> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<NSString*> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<R C::*> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<T*> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<T^> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<bool> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<char *> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<char const *> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<char> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<char[SZ]> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<double> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<float> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<int> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<long long> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<long> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<signed char> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<signed char[SZ]> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<std::nullptr_t> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<std::pair<T1, T2> > {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<std::string> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<std::wstring> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<unsigned char> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<unsigned char[SZ]> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<unsigned int> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<unsigned long long> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<unsigned long> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<wchar_t *> {$/;"	s	namespace:Catch
+StringMaker	catch.hpp	/^    struct StringMaker<wchar_t const *> {$/;"	s	namespace:Catch
+StringRef	catch.hpp	/^        :   StringRef( s_empty, 0 )$/;"	f	class:Catch::StringRef
+StringRef	catch.hpp	/^    class StringRef {$/;"	c	namespace:Catch
+SuppressFail	catch.hpp	/^        SuppressFail = 0x08         \/\/ Failures are reported but do not fail the test$/;"	e	enum:Catch::ResultDisposition::Flags
+TEAM_ACCOUNT	config.hpp	21;"	d
+TO_STRING	printu128.hpp	8;"	d
+TWOBLUECUBES_SINGLE_INCLUDE_CATCH_HPP_INCLUDED	catch.hpp	12;"	d
+TestContext	test_helper.hpp	/^  TestContext(size_t naccounts)$/;"	f	class:TestContext
+TestContext	test_helper.hpp	/^class TestContext {$/;"	c
+TestInvokerAsMethod	catch.hpp	/^class TestInvokerAsMethod : public ITestInvoker {$/;"	c	namespace:Catch
+ThrewException	catch.hpp	/^        ThrewException = Exception | 1,$/;"	e	enum:Catch::ResultWas::OfType
+TransferMemo	memo.hpp	/^class TransferMemo {$/;"	c
+Unknown	catch.hpp	/^        Unknown = -1,$/;"	e	enum:Catch::ResultWas::OfType
+WIN32_LEAN_AND_MEAN	catch.hpp	5227;"	d
+WIN32_LEAN_AND_MEAN	catch.hpp	5240;"	d
+WITHDRAW_PIXELS_THRESHOLD	config.hpp	16;"	d
+WITHDRAW_QUOTA	config.hpp	23;"	d
+Warning	catch.hpp	/^        Warning = 2,$/;"	e	enum:Catch::ResultWas::OfType
+Yes	catch.hpp	/^        Yes,$/;"	e	enum:Catch::CaseSensitive::Choice
+_BSD_SOURCE	catch.hpp	202;"	d
+_PIXELS_TYPES_HPP	types.hpp	2;"	d
+_PIXEL_ENU	eosio.hpp	5;"	d
+account	types.hpp	/^struct account {$/;"	s
+account_name	eosio.hpp	/^typedef uint64_t account_name;$/;"	t
+account_store	EOSPixels.hpp	/^  typedef multi_index<N(account), account> account_store;$/;"	t	class:eospixels
+accounts	EOSPixels.hpp	/^  account_store accounts;$/;"	m	class:eospixels
+accounts	test_helper.hpp	/^  std::vector<account> accounts;$/;"	m	class:TestContext
+amountLeft	types.hpp	/^  uint64_t amountLeft;  \/\/ 1 EOS = 10,000$/;"	m	struct:st_transferContext
+amountLeftScaled	types.hpp	/^  uint128_t amountLeftScaled() { return amountLeft * PRECISION_BASE; }$/;"	f	struct:st_transferContext
+apply	EOSPixels.cpp	/^[[noreturn]] void apply(uint64_t receiver, uint64_t code, uint64_t action) {$/;"	f
+apply	EOSPixels.cpp	/^void eospixels::apply(account_name contract, action_name act) {$/;"	f	class:eospixels
+arcSafeRelease	catch.hpp	/^inline void arcSafeRelease( NSObject* ){}$/;"	f
+arcSafeRelease	catch.hpp	/^inline void arcSafeRelease( NSObject* obj ) {$/;"	f
+balanceScaled	types.hpp	/^  uint128_t balanceScaled;$/;"	m	struct:account
+bonusPerPixelScaled	types.hpp	/^  uint128_t bonusPerPixelScaled;$/;"	m	struct:st_transferContext
+buyBlankPixels	fuzz.cpp	/^void buyBlankPixels(size_t npixels, canvas& cnv, account& player) {$/;"	f
+buyNonBlankPixels	fuzz.cpp	/^void buyNonBlankPixels(size_t npixels, canvas& cnv, account& player) {$/;"	f
+buyPixels	test_helper.hpp	/^  void buyPixels(TestContext& tt, size_t npixels, size_t gen, account& player,$/;"	f	class:TestContext
+calculateWithdrawalAndUpdate	types.hpp	/^uint64_t calculateWithdrawalAndUpdate(const canvas &cnv, account &player,$/;"	f
+canvas	types.hpp	/^struct canvas {$/;"	s
+canvasMaskScaled	types.hpp	/^  uint128_t canvasMaskScaled;$/;"	m	struct:st_transferContext
+canvas_store	EOSPixels.hpp	/^  typedef multi_index<N(canvases), canvas> canvas_store;$/;"	t	class:eospixels
+canvases	EOSPixels.hpp	/^  canvas_store canvases;$/;"	m	class:eospixels
+capturedExpression	catch.hpp	/^        StringRef capturedExpression;$/;"	m	struct:Catch::AssertionInfo
+changedur	EOSPixels.cpp	/^void eospixels::changedur(time duration) {$/;"	f	class:eospixels
+char_to_symbol	eosio.hpp	/^static constexpr char char_to_symbol(char c) {$/;"	f
+clear_table	EOSPixels.cpp	/^void clear_table(multi_index<A, B, C...> *table, uint16_t limit) {$/;"	f
+clearaccts	EOSPixels.cpp	/^void eospixels::clearaccts(uint16_t count, uint16_t nonce) {$/;"	f	class:eospixels
+clearcanvs	EOSPixels.cpp	/^void eospixels::clearcanvs(uint16_t count, uint16_t nonce) {$/;"	f	class:eospixels
+clearpixels	EOSPixels.cpp	/^void eospixels::clearpixels(uint16_t count, uint16_t nonce) {$/;"	f	class:eospixels
+cnv	test_helper.hpp	/^  canvas cnv;$/;"	m	class:TestContext
+col	types.hpp	/^  uint16_t col;$/;"	m	struct:st_pixelLocation
+color	types.hpp	/^  uint32_t color;$/;"	m	struct:pixel
+color	types.hpp	/^  uint32_t color;$/;"	m	struct:st_pixelOrder
+convert	catch.hpp	/^            convert( const Fake& value ) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^            convert(const Fake& value) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(NSObject* nsObject) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(NSString * nsstring) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(R C::* p) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(U* p) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(char const* str) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(const std::pair<T1, T2>& pair) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(signed char const* str) {$/;"	f	struct:Catch::StringMaker
+convert	catch.hpp	/^        static std::string convert(unsigned char const* str) {$/;"	f	struct:Catch::StringMaker
+convertUnknownEnumToString	catch.hpp	/^        std::string convertUnknownEnumToString( E e ) {$/;"	f	namespace:Catch::Detail
+convertUnstreamable	catch.hpp	/^         std::string>::type convertUnstreamable(T const& ex) {$/;"	f	namespace:Catch::Detail
+convertUnstreamable	catch.hpp	/^        , std::string>::type convertUnstreamable( T const& value ) {$/;"	f	namespace:Catch::Detail
+convertUnstreamable	catch.hpp	/^        std::string>::type convertUnstreamable( T const& ) {$/;"	f	namespace:Catch::Detail
+coordinate	types.hpp	/^  uint32_t coordinate;$/;"	m	struct:st_pixelOrder
+createacct	EOSPixels.cpp	/^void eospixels::createacct(const account_name account) {$/;"	f	class:eospixels
+currentPrice	types.hpp	/^  uint64_t currentPrice() const {$/;"	f	struct:pixel
+deposit	EOSPixels.cpp	/^void eospixels::deposit(const account_name user,$/;"	f	class:eospixels
+drawPixel	EOSPixels.cpp	/^void eospixels::drawPixel(pixel_store &allPixels,$/;"	f	class:eospixels
+duration	types.hpp	/^  eostime duration;$/;"	m	struct:canvas
+end	EOSPixels.cpp	/^void eospixels::end() {$/;"	f	class:eospixels
+enumivo_assert	eosio.hpp	9;"	d
+eos	fuzz.cpp	/^double eos(uint64_t value) { return (double)value \/ 1e4; }$/;"	f
+eospixels	EOSPixels.hpp	/^  eospixels(account_name self)$/;"	f	class:eospixels
+eospixels	EOSPixels.hpp	/^class eospixels : public contract {$/;"	c
+eostime	types.hpp	/^typedef uint32_t eostime;$/;"	t
+false_type	catch.hpp	/^            static auto test(...)->std::false_type;$/;"	m	class:Catch::Detail::IsStreamInsertable::std
+feeScaled	types.hpp	/^  uint128_t feeScaled;$/;"	m	struct:st_buyPixel_result
+file	catch.hpp	/^        char const* file;$/;"	m	struct:Catch::SourceLineInfo
+guard	types.hpp	/^struct guard {$/;"	s
+guard_store	EOSPixels.hpp	/^  typedef multi_index<N(guard), guard> guard_store;$/;"	t	class:eospixels
+guards	EOSPixels.hpp	/^  guard_store guards;$/;"	m	class:eospixels
+hasReferrer	types.hpp	/^  bool hasReferrer() { return referrer != 0; }$/;"	f	struct:st_transferContext
+id	types.hpp	/^  uint64_t id;$/;"	m	struct:canvas
+id	types.hpp	/^  uint64_t id;$/;"	m	struct:guard
+init	EOSPixels.cpp	/^void eospixels::init() {$/;"	f	class:eospixels
+initialize_empty_pixels	types.hpp	/^  void initialize_empty_pixels() {$/;"	f	struct:pixel_row
+isBlank	types.hpp	/^  inline bool isBlank() const { return owner == 0; }$/;"	f	struct:pixel
+isEnded	types.hpp	/^  bool isEnded() { return now() > lastPaintedAt + duration; }$/;"	f	struct:canvas
+isFalseTest	catch.hpp	/^    inline bool isFalseTest( int flags ) { return ( flags & ResultDisposition::FalseTest ) != 0; }$/;"	f	namespace:Catch
+isFirstBuyer	types.hpp	/^  bool isFirstBuyer;$/;"	m	struct:st_buyPixel_result
+isSkipped	types.hpp	/^  bool isSkipped;$/;"	m	struct:st_buyPixel_result
+isValidReferrer	EOSPixels.cpp	/^bool eospixels::isValidReferrer(account_name name) {$/;"	f	class:eospixels
+lastPaintedAt	types.hpp	/^  eostime lastPaintedAt;$/;"	m	struct:canvas
+lastPainter	types.hpp	/^  account_name lastPainter;$/;"	m	struct:canvas
+line	catch.hpp	/^            line( _line )$/;"	f	struct:Catch::SourceLineInfo
+line	catch.hpp	/^        std::size_t line;$/;"	m	struct:Catch::SourceLineInfo
+lineInfo	catch.hpp	/^        SourceLineInfo lineInfo;$/;"	m	struct:Catch::AssertionInfo
+location	types.hpp	/^  st_pixelLocation location() const { return st_pixelLocation(coordinate); }$/;"	f	struct:st_pixelOrder
+m_args	catch.hpp	/^        std::vector<Arg> m_args;$/;"	m	struct:Catch::Parser
+m_data	catch.hpp	/^            m_data( other.m_data )$/;"	f	class:Catch::StringRef
+m_data	catch.hpp	/^        char* m_data = nullptr;$/;"	m	class:Catch::StringRef
+m_description	catch.hpp	/^        std::string m_description;$/;"	m	class:Catch::ParserRefImpl
+m_exeName	catch.hpp	/^        mutable ExeName m_exeName;$/;"	m	struct:Catch::Parser
+m_hint	catch.hpp	/^        std::string m_hint;$/;"	m	class:Catch::ParserRefImpl
+m_index	catch.hpp	/^        std::size_t m_index;$/;"	m	class:Catch::ReusableStringStream
+m_name	catch.hpp	/^        std::shared_ptr<std::string> m_name;$/;"	m	class:Catch::ExeName
+m_optNames	catch.hpp	/^        std::vector<std::string> m_optNames;$/;"	m	class:Catch::Opt
+m_optionality	catch.hpp	/^        Optionality m_optionality = Optionality::Optional;$/;"	m	class:Catch::ParserRefImpl
+m_options	catch.hpp	/^        std::vector<Opt> m_options;$/;"	m	struct:Catch::Parser
+m_oss	catch.hpp	/^        std::ostream* m_oss;$/;"	m	class:Catch::ReusableStringStream
+m_ref	catch.hpp	/^        std::shared_ptr<BoundRef> m_ref;$/;"	m	class:Catch::ParserRefImpl
+m_ref	catch.hpp	/^        std::shared_ptr<BoundValueRefBase> m_ref;$/;"	m	class:Catch::ExeName
+m_size	catch.hpp	/^            m_size( other.m_size )$/;"	f	class:Catch::StringRef
+m_size	catch.hpp	/^            m_size( size )$/;"	f	class:Catch::StringRef
+m_size	catch.hpp	/^            m_size( stdString.size() )$/;"	f	class:Catch::StringRef
+m_size	catch.hpp	/^        size_type m_size;$/;"	m	class:Catch::StringRef
+m_start	catch.hpp	/^        char const* m_start;$/;"	m	class:Catch::StringRef
+m_testAsMethod	catch.hpp	/^    TestInvokerAsMethod( void (C::*testAsMethod)() ) noexcept : m_testAsMethod( testAsMethod ) {}$/;"	f	class:Catch::TestInvokerAsMethod
+m_testAsMethod	catch.hpp	/^    void (C::*m_testAsMethod)();$/;"	m	class:Catch::TestInvokerAsMethod
+macroName	catch.hpp	/^        StringRef macroName;$/;"	m	struct:Catch::AssertionInfo
+main	fuzz.cpp	/^int main() {$/;"	f
+maskScaled	types.hpp	/^  uint128_t maskScaled;$/;"	m	struct:account
+maskScaled	types.hpp	/^  uint128_t maskScaled;$/;"	m	struct:canvas
+name	catch.hpp	/^    StringRef name;$/;"	m	struct:Catch::NameAndTags
+nextPrice	types.hpp	/^  uint64_t nextPrice() const {$/;"	f	struct:pixel
+nextPriceCounter	types.hpp	/^  uint8_t nextPriceCounter() const {$/;"	f	struct:pixel
+noexcept	catch.hpp	/^        SourceLineInfo( char const* _file, std::size_t _line ) noexcept$/;"	m	struct:Catch::SourceLineInfo
+noexcept	catch.hpp	/^        StringRef( char const* rawChars ) noexcept;$/;"	m	class:Catch::StringRef
+noexcept	catch.hpp	/^        bool empty() const noexcept;$/;"	m	struct:Catch::SourceLineInfo
+noexcept	catch.hpp	/^        bool operator < ( SourceLineInfo const& other ) const noexcept;$/;"	m	struct:Catch::SourceLineInfo
+noexcept	catch.hpp	/^        bool operator == ( SourceLineInfo const& other ) const noexcept;$/;"	m	struct:Catch::SourceLineInfo
+noexcept	catch.hpp	/^        void swap( StringRef& other ) noexcept;$/;"	m	class:Catch::StringRef
+noexcept	catch.hpp	/^    AutoReg( ITestInvoker* invoker, SourceLineInfo const& lineInfo, StringRef const& classOrMethod, NameAndTags const& nameAndTags ) noexcept;$/;"	m	struct:Catch::AutoReg
+noexcept	catch.hpp	/^    NameAndTags( StringRef const& name_ = StringRef(), StringRef const& tags_ = StringRef() ) noexcept;$/;"	m	struct:Catch::NameAndTags
+now	eosio.hpp	/^uint32_t now() { return 0; }$/;"	f
+onTransfer	EOSPixels.cpp	/^void eospixels::onTransfer(const currency::transfer &transfer) {$/;"	f	class:eospixels
+operator +	catch.hpp	/^    T const& operator + ( T const& value, StreamEndStop ) {$/;"	f	namespace:Catch
+ostream	catch.hpp	/^    auto operator << ( std::ostream& os, StringRef const& sr ) -> std::ostream&;$/;"	m	class:Catch::std
+other	catch.hpp	/^        SourceLineInfo( SourceLineInfo const& other )        = default;$/;"	m	struct:Catch::SourceLineInfo
+owner	types.hpp	/^  account_name owner;$/;"	m	struct:account
+owner	types.hpp	/^  account_name owner;$/;"	m	struct:pixel
+ownerEarningScaled	types.hpp	/^  uint128_t ownerEarningScaled;$/;"	m	struct:st_buyPixel_result
+paintedPixelCount	types.hpp	/^  uint64_t paintedPixelCount;$/;"	m	struct:st_transferContext
+parse	memo.hpp	/^  void parse(const std::string& memo) {$/;"	f	class:TransferMemo
+parse	types.hpp	/^  void parse(const std::string &memo) {$/;"	f	struct:st_pixelOrder
+patronBonusScaled	types.hpp	/^  uint128_t patronBonusScaled(const account &player) const {$/;"	f	struct:canvas
+patronBonusScaled	types.hpp	/^  uint128_t patronBonusScaled;$/;"	m	struct:st_transferContext
+payoutsScaled	test_helper.hpp	/^  uint128_t payoutsScaled() {$/;"	f	class:TestContext
+performOptionalSelector	catch.hpp	/^inline id performOptionalSelector( id obj, SEL sel ) {$/;"	f
+pixel	types.hpp	/^struct pixel {$/;"	s
+pixelOrders	memo.hpp	/^  std::vector<st_pixelOrder> pixelOrders;$/;"	m	class:TransferMemo
+pixel_row	types.hpp	/^struct pixel_row {$/;"	s
+pixel_store	EOSPixels.hpp	/^  typedef multi_index<N(pixels), pixel_row> pixel_store;$/;"	t	class:eospixels
+pixels	types.hpp	/^  std::vector<pixel> pixels;$/;"	m	struct:pixel_row
+pixelsDrawn	types.hpp	/^  uint64_t pixelsDrawn;$/;"	m	struct:account
+pixelsDrawn	types.hpp	/^  uint64_t pixelsDrawn;$/;"	m	struct:canvas
+potScaled	types.hpp	/^  uint128_t potScaled;$/;"	m	struct:canvas
+potScaled	types.hpp	/^  uint128_t potScaled;$/;"	m	struct:st_transferContext
+priceCounter	types.hpp	/^  uint8_t priceCounter;$/;"	m	struct:pixel
+priceCounter	types.hpp	/^  uint8_t priceCounter;$/;"	m	struct:st_pixelOrder
+primary_key	types.hpp	/^  uint64_t primary_key() const { return id; }$/;"	f	struct:canvas
+primary_key	types.hpp	/^  uint64_t primary_key() const { return id; }$/;"	f	struct:guard
+primary_key	types.hpp	/^  uint64_t primary_key() const { return owner; }$/;"	f	struct:account
+primary_key	types.hpp	/^  uint64_t primary_key() const { return row; }$/;"	f	struct:pixel_row
+print_u128	printu128.hpp	/^int print_u128(uint128_t u128) {$/;"	f
+purchase	types.hpp	/^  st_buyPixel_result purchase(const pixel &pixel,$/;"	f	struct:st_transferContext
+purchaser	types.hpp	/^  account_name purchaser;$/;"	m	struct:st_transferContext
+quota	types.hpp	/^  uint64_t quota;$/;"	m	struct:guard
+rangeToString	catch.hpp	/^        std::string rangeToString(InputIterator first, InputIterator last) {$/;"	f	namespace:Catch::Detail
+rawMemoryToString	catch.hpp	/^        std::string rawMemoryToString( const T& object ) {$/;"	f	namespace:Catch::Detail
+referralEarningScaled	types.hpp	/^  uint128_t referralEarningScaled;$/;"	m	struct:st_transferContext
+referrer	memo.hpp	/^  account_name referrer;$/;"	m	class:TransferMemo
+referrer	types.hpp	/^  account_name referrer;$/;"	m	struct:st_transferContext
+refresh	EOSPixels.cpp	/^void eospixels::refresh() {$/;"	f	class:eospixels
+refreshLastPaintedAt	EOSPixels.cpp	/^void eospixels::refreshLastPaintedAt() {$/;"	f	class:eospixels
+resetquota	EOSPixels.cpp	/^void eospixels::resetquota() {$/;"	f	class:eospixels
+resultDisposition	catch.hpp	/^        ResultDisposition::Flags resultDisposition;$/;"	m	struct:Catch::AssertionInfo
+row	types.hpp	/^  uint16_t row;$/;"	m	struct:st_pixelLocation
+row	types.hpp	/^  uint64_t row;$/;"	m	struct:pixel_row
+s_empty	catch.hpp	/^        static constexpr char const* const s_empty = "";$/;"	m	class:Catch::StringRef
+splitMemo	memo.hpp	/^void splitMemo(std::vector<std::string>& results, const std::string& memo,$/;"	f
+st_buyPixel_result	types.hpp	/^struct st_buyPixel_result {$/;"	s
+st_pixelLocation	types.hpp	/^  st_pixelLocation(uint32_t coordinate) {$/;"	f	struct:st_pixelLocation
+st_pixelLocation	types.hpp	/^struct st_pixelLocation {$/;"	s
+st_pixelOrder	types.hpp	/^struct st_pixelOrder {$/;"	s
+st_transferContext	types.hpp	/^struct st_transferContext {$/;"	s
+string	catch.hpp	/^        auto str() const -> std::string;$/;"	m	class:Catch::ReusableStringStream::std
+string	catch.hpp	/^    auto operator + ( StringRef const& lhs, StringRef const& rhs ) -> std::string;$/;"	m	class:Catch::std
+string	catch.hpp	/^    auto operator + ( StringRef const& lhs, char const* rhs ) -> std::string;$/;"	m	class:Catch::std
+string	catch.hpp	/^    auto operator + ( char const* lhs, StringRef const& rhs ) -> std::string;$/;"	m	class:Catch::std
+string	catch.hpp	/^    auto operator += ( std::string& lhs, StringRef const& sr ) -> std::string&;$/;"	m	class:Catch::std
+string_to_name	eosio.hpp	/^static constexpr uint64_t string_to_name(const char* str) {$/;"	f
+stringify	catch.hpp	/^        inline std::string stringify( NSString* nsstring ) {$/;"	f	namespace:Catch::Detail
+stringify	catch.hpp	/^        std::string stringify(const T& e) {$/;"	f	namespace:Catch::Detail
+tags	catch.hpp	/^    StringRef tags;$/;"	m	struct:Catch::NameAndTags
+teamScaled	types.hpp	/^  uint128_t teamScaled;$/;"	m	struct:canvas
+teamScaled	types.hpp	/^  uint128_t teamScaled;$/;"	m	struct:st_transferContext
+totalFeesScaled	types.hpp	/^  uint128_t totalFeesScaled;$/;"	m	struct:st_transferContext
+totalPaid	fuzz.cpp	/^uint64_t totalPaid = 0;$/;"	v
+totalPaid	test_helper.hpp	/^  uint64_t totalPaid;$/;"	m	class:TestContext
+totalPaidToOwnerScaled	fuzz.cpp	/^uint128_t totalPaidToOwnerScaled = 0;$/;"	v
+totalPaidToOwnerScaled	test_helper.hpp	/^  uint128_t totalPaidToOwnerScaled;$/;"	m	class:TestContext
+totalReferralPaidScaled	test_helper.hpp	/^  uint128_t totalReferralPaidScaled;$/;"	m	class:TestContext
+uint128_t	types.hpp	/^typedef unsigned __int128 uint128_t;$/;"	t
+updateCanvas	types.hpp	/^  void updateCanvas(canvas &cv) {$/;"	f	struct:st_transferContext
+updateFeesDistribution	types.hpp	/^  void updateFeesDistribution() {$/;"	f	struct:st_transferContext
+updatePurchaserAccount	types.hpp	/^  void updatePurchaserAccount(account &acct) {$/;"	f	struct:st_transferContext
+validatePayouts	test_helper.hpp	/^  void validatePayouts(uint64_t tolerance = 10) {$/;"	f	class:TestContext
+value	catch.hpp	/^            static const bool value = decltype(test<std::ostream, const T&>(0))::value;$/;"	m	class:Catch::Detail::IsStreamInsertable
+withdraw	EOSPixels.cpp	/^void eospixels::withdraw(const account_name to) {$/;"	f	class:eospixels
+writeToStream	catch.hpp	/^        void writeToStream( std::ostream &os ) const {$/;"	f	struct:Catch::Parser
+x	types.hpp	/^  uint32_t x;$/;"	m	struct:st_pixelOrder
+y	types.hpp	/^  uint32_t y;$/;"	m	struct:st_pixelOrder
