@@ -177,8 +177,8 @@ void eospixels::onTransfer(const currency::transfer &transfer) {
 
     // speed up
     if ( now() > SPEEDUP_TIMESTAMP && cv.pixelsDrawn >= SPEEDUP_PIXELS_THRESHOLD ) {
-      cv.duration = cv.duration - memo.pixelOrders.size() > 100 ? 
-		    cv.duration - memo.pixelOrders.size() > 100 : 100;
+      cv.duration = cv.duration - SECONDS_SHRINK_STEP * memo.pixelOrders.size() > MINIMUM_DURATION ? 
+		    cv.duration - SECONDS_SHRINK_STEP * memo.pixelOrders.size() : MINIMUM_DURATION ;
     }
 
     ctx.updateCanvas(cv);
