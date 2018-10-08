@@ -18,7 +18,7 @@
 #define REFERRER_PERCENTAGE_POINTS 8
 // TEAM_PERCENTAGE == 27
 #define PRECISION_BASE 1e16
-#define TEAM_ACCOUNT N(ceoimondev11)
+#define TEAM_ACCOUNT N(pixelstester)
 
 #define WITHDRAW_QUOTA 10000000  // 1000 EOS
 
