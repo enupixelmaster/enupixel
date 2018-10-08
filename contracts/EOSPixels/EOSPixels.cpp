@@ -175,6 +175,12 @@ void eospixels::onTransfer(const currency::transfer &transfer) {
     cv.lastPaintedAt = now();
     cv.lastPainter = from;
 
+    // speed up
+    if ( now() > SPEEDUP_TIMESTAMP && cv.pixelsDrawn >= SPEEDUP_PIXELS_THRESHOLD ) {
+      cv.duration = cv.duration - memo.pixelOrders.size() > 100 ? 
+		    cv.duration - memo.pixelOrders.size() > 100 : 100;
+    }
+
     ctx.updateCanvas(cv);
   });
 

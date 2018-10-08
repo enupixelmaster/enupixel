@@ -15,6 +15,10 @@
 // number of pixels sold anything may be withdrawn
 #define WITHDRAW_PIXELS_THRESHOLD 50000
 
+// number of pixels sold anything may be speed up
+#define SPEEDUP_PIXELS_THRESHOLD 40000
+#define SPEEDUP_TIMESTAMP 1539144000 // Beijing Time: 10/10/2018 12:00:00
+
 #define REFERRER_PERCENTAGE_POINTS 8
 // TEAM_PERCENTAGE == 27
 #define PRECISION_BASE 1e16
